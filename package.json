@@ -1,0 +1,17 @@
+{
+  "name": "light-house-exp",
+  "version": "1.0.0",
+  "description": "to have light house score before and after SEO4",
+  "main": "sna-test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lighthouse": "^2.9.2"
+  }
+}
